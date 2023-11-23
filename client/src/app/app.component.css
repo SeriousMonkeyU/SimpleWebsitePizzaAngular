@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+  }
+
+.side-menu {
+    width: 200px; /* Adjust as needed */
+    background-color: #eee; /* Optional styling for the side menu */
+  }
+
+.main-content {
+  flex: 1; /* Takes up remaining space in the row */
+  overflow-y: auto; /* Allow content to scroll if it exceeds the height */
+}
+
+.main-holder {
+    height: 100vh;
+}

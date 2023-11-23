@@ -1,0 +1,24 @@
+.main-holder {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    justify-content: auto; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    height: 100em;
+    background-image: url('../../../assets/images/main-view.jpg'); /* Adjust the path */
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+}
+
+.content-holder {
+    margin-top: 4em;
+    width: 80%;
+    background-color: rgba(255, 230, 167, 0.5);
+    margin-left: 1em;
+    margin-right: 1em;
+    min-height: 50em;
+    max-height: 80em;
+}
+
+.spacer {
+    margin:1em;
+}

@@ -1,0 +1,52 @@
+[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./components/"[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.config.ts:7:36:[39m[22m
+[1m[31m[37m      7 │ import { NavigationComponent } from [32m'./components/'[37m;[39m[22m
+[1m[31m        ╵                                     [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './components/' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.config.ts:8:34:[39m[22m
+[1m[31m[37m      8 │ import {NavigationComponent} from [32m'./components/'[37m[39m[22m
+[1m[31m        ╵                                   [32m~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS-991010: Value at position 1 in the NgModule.declarations of MaterialModule is not a reference[39m[22m
+[1m[31m  Value could not be determined statically.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.config.ts:24:16:[39m[22m
+[1m[31m[37m      24 │   declarations: [32m[AppComponent, NavigationComponent][37m,[39m[22m
+[1m[31m         ╵                 [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  Unknown reference.[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.config.ts:24:31:[39m[22m
+[1m[31m[37m      24 │   declarations: [AppComponent, [32mNavigationComponent[37m],[39m[22m
+[1m[31m         ╵                                [32m~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[37mApplication bundle generation failed. [1.840 seconds][39m
+[37mWatch mode enabled. Watching for file changes...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS-996008: Component NavMenuComponent is standalone, and cannot be declared in an NgModule. Did you mean to import it instead?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.config.ts:27:31:[39m[22m
+[1m[31m[37m      27 │ ...rations: [AppComponent, [32mNavMenuComponent[37m, HomeComponent, MenuCo...[39m[22m
+[1m[31m         ╵                            [32m~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS-996008: Component HomeComponent is standalone, and cannot be declared in an NgModule. Did you mean to import it instead?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.config.ts:27:49:[39m[22m
+[1m[31m[37m      27 │ ...s: [AppComponent, NavMenuComponent, [32mHomeComponent[37m, MenuComponent],[39m[22m
+[1m[31m         ╵                                        [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS-996008: Component MenuComponent is standalone, and cannot be declared in an NgModule. Did you mean to import it instead?[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.config.ts:27:64:[39m[22m
+[1m[31m[37m      27 │ ...s: [AppComponent, NavMenuComponent, HomeComponent, [32mMenuComponent[37m],[39m[22m
+[1m[31m         ╵                                                       [32m~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[37mApplication bundle generation failed. [0.302 seconds][39m

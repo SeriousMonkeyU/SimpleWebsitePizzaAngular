@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run client:watch",
+    "startTime": "2023-11-23T18:13:42.467Z",
+    "endTime": "2023-11-23T18:13:44.160Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "client:watch",
+      "target": "watch",
+      "projectName": "client",
+      "hash": "10191158188219481844",
+      "startTime": "2023-11-23T18:13:42.472Z",
+      "endTime": "2023-11-23T18:13:44.159Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

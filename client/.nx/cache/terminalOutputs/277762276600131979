@@ -1,0 +1,2344 @@
+- Building...
+
+Initial Chunk Files | Names         |  Raw Size
+styles.css          | styles        |  91.09 kB |
+polyfills.js        | polyfills     |  82.71 kB |
+main.js             | main          |   7.62 kB |
+
+                    | Initial Total | 181.42 kB
+
+Application bundle generation complete. [2.190 seconds]
+Watch mode enabled. Watching for file changes...
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.65 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.340 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.71 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.132 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.70 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.120 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.064 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.78 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.336 seconds]
+Reloading client(s)...
+[2m19.20.35[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33m@angular/flex-layout[32m[39m
+[2m19.20.35[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.87 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.336 seconds]
+Reloading client(s)...
+[2m19.21.26[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33m@angular/flex-layout/flex[32m[39m
+[2m19.21.26[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.64 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.140 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.87 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.130 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.69 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.144 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.59 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.118 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.69 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.109 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.47 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.170 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.45 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.299 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.70 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.097 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  7.72 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.105 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.26 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.120 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.41 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.300 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.49 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.238 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.110 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.249 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.101 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.76 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.125 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.76 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.267 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.02 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.123 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.03 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.121 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.92 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.128 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.97 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.090 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.00 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.069 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.99 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.123 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.074 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.92 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.102 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.30 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.086 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.92 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.097 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.93 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.097 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.92 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.080 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.00 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.222 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.09 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.254 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.16 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.117 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.16 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.114 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.15 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.141 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.07 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.113 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.06 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.091 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.05 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.113 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.06 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.094 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.05 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.123 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.99 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.115 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.05 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.115 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.06 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.077 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.07 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.083 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.06 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.073 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.00 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.116 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.00 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.095 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.00 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.091 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  8.93 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.112 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.03 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.080 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.19 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.101 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.19 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.104 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.20 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.104 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.19 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.100 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.12 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.104 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.11 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.105 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.25 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.105 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.17 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.085 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.25 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.087 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.31 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.098 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.25 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.074 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.31 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.090 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.43 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.096 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.43 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.080 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.25 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.086 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.25 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.082 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.42 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.083 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.25 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.086 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.31 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.102 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.43 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.099 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.31 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.084 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.31 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.064 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.59 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.088 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'onClick' does not exist on type 'NavMenuComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/nav-menu/nav-menu.component.html:4:40:
+[37m      4 │             <button mat-button (click)="[32monClick[37m()">HOME</button>
+        ╵                                         [32m~~~~~~~[0m
+
+  Error occurs in the template of component NavMenuComponent.
+
+    src/app/components/nav-menu/nav-menu.component.ts:5:15:
+[37m      5 │   templateUrl: [32m'./nav-menu.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.115 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'onClick' does not exist on type 'NavMenuComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/nav-menu/nav-menu.component.html:4:40:
+[37m      4 │             <button mat-button (click)="[32monClick[37m()">HOME</button>
+        ╵                                         [32m~~~~~~~[0m
+
+  Error occurs in the template of component NavMenuComponent.
+
+    src/app/components/nav-menu/nav-menu.component.ts:5:15:
+[37m      5 │   templateUrl: [32m'./nav-menu.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.095 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names         |  Raw Size
+styles.css          | styles        |  91.09 kB |
+polyfills.js        | polyfills     |  82.71 kB |
+main.js             | main          |   9.98 kB |
+
+                    | Initial Total | 183.78 kB
+
+Application bundle generation complete. [0.108 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'onClick' does not exist on type 'NavMenuComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/nav-menu/nav-menu.component.html:4:40:
+[37m      4 │             <button mat-button (click)="[32monClick[37m()">HOME</button>
+        ╵                                         [32m~~~~~~~[0m
+
+  Error occurs in the template of component NavMenuComponent.
+
+    src/app/components/nav-menu/nav-menu.component.ts:5:15:
+[37m      5 │   templateUrl: [32m'./nav-menu.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.100 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names         |  Raw Size
+styles.css          | styles        |  91.09 kB |
+polyfills.js        | polyfills     |  82.71 kB |
+main.js             | main          |   9.59 kB |
+
+                    | Initial Total | 183.39 kB
+
+Application bundle generation complete. [0.077 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.068 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.080 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.50 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.085 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.63 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.088 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.72 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.063 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.68 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.054 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.68 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.068 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  |  9.87 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.103 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.046 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.040 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.041 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.01 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.077 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.069 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.044 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.01 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.063 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.051 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.02 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.076 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.16 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.089 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.24 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.084 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.32 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.061 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.41 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.093 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.48 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.101 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.55 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.080 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.55 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.093 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.55 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.081 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.080 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.073 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.091 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.63 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.094 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.077 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.106 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.090 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.074 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.63 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.085 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.63 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.078 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.070 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.073 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.063 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.70 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.076 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.78 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.068 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.84 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.081 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.90 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.097 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.92 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.087 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.077 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.86 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.094 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.93 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.096 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.91 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.086 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.73 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.081 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.71 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.072 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.71 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.064 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.71 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.062 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.96 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.081 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 10.98 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.101 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.04 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.091 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.070 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "assets/images/background.jpg"[0m [1m[35m[plugin angular-css-resource][0m
+
+    src/app/components/home/home.component.css:4:26:
+[37m      4 │     background-image: url([32m'assets/images/background.jpg'[37m);
+        ╵                           [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  You can mark the path "assets/images/background.jpg" as external to exclude it from the bundle, which will remove this error and leave the unresolved path in the bundle.
+
+
+Application bundle generation failed. [0.087 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names         |  Raw Size
+styles.css          | styles        |  91.09 kB |
+polyfills.js        | polyfills     |  82.71 kB |
+main.js             | main          |  11.37 kB |
+
+                    | Initial Total | 185.16 kB
+
+Application bundle generation complete. [0.090 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.24 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.065 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.29 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.088 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.30 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.076 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.24 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.097 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.19 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.092 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.19 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.070 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.61 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.088 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.50 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.073 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.49 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.076 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "client/src/assets/images/main-view.jpg"[0m [1m[35m[plugin angular-css-resource][0m
+
+    src/app/components/home/home.component.css:7:26:
+[37m      7 │     background-image: url([32m'client/src/assets/images/main-view.jpg'[37m);
+        ╵                           [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  You can mark the path "client/src/assets/images/main-view.jpg" as external to exclude it from the bundle, which will remove this error and leave the unresolved path in the bundle.
+
+
+Application bundle generation failed. [0.073 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names         |  Raw Size
+styles.css          | styles        |  91.09 kB |
+polyfills.js        | polyfills     |  82.71 kB |
+main.js             | main          |  11.50 kB |
+
+                    | Initial Total | 185.30 kB
+
+Application bundle generation complete. [0.080 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.49 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.079 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.50 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.073 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "client/src/assets/images/main-view.jpg"[0m [1m[35m[plugin angular-css-resource][0m
+
+    src/app/components/home/home.component.css:7:26:
+[37m      7 │     background-image: url([32m'client/src/assets/images/main-view.jpg'[37m);
+        ╵                           [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  You can mark the path "client/src/assets/images/main-view.jpg" as external to exclude it from the bundle, which will remove this error and leave the unresolved path in the bundle.
+
+
+Application bundle generation failed. [0.076 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "assets/images/main-view.jpg"[0m [1m[35m[plugin angular-css-resource][0m
+
+    src/app/components/home/home.component.css:7:26:
+[37m      7 │ ...ground-image: url([32m'assets/images/main-view.jpg'[37m); /* Adjust the ...
+        ╵                      [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  You can mark the path "assets/images/main-view.jpg" as external to exclude it from the bundle, which will remove this error and leave the unresolved path in the bundle.
+
+
+Application bundle generation failed. [0.076 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names         |  Raw Size
+styles.css          | styles        |  91.09 kB |
+polyfills.js        | polyfills     |  82.71 kB |
+main.js             | main          |  11.51 kB |
+
+                    | Initial Total | 185.31 kB
+
+Application bundle generation complete. [0.082 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.46 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.079 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.51 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.090 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.51 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.087 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.10 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.076 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.61 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.087 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.69 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.081 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.79 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.080 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.80 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.080 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.81 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.064 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.81 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.079 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.81 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.095 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+[33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1mExpected ":"[0m [1m[35m[plugin angular-compiler][0m [css-syntax-error]
+
+    src/app/components/home/home.component.css:17:15:
+[37m      17 │     background-[32m[37m
+         │                [32m^[37m
+         ╵                [32m:[0m
+
+
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.94 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.095 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.89 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.083 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.89 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.123 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.91 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.064 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.92 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.054 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 12.06 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.065 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.92 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.053 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.12 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.073 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.24 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.083 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.31 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.092 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.31 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.077 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.38 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.084 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.37 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.070 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.19 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.087 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.39 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.082 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.58 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.082 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.072 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.60 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.064 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.057 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.079 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.22 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.084 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.27 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.095 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.33 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.075 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.047 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.27 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.083 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.090 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.076 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.63 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.083 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.093 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.69 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.093 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.073 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.69 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.092 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.61 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.087 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.61 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.072 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.072 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.62 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.091 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.069 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.75 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.057 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.94 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.078 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.97 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.107 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.99 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.066 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.99 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.079 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 11.99 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.068 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 12.13 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.091 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 12.61 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.071 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 12.75 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.086 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 12.83 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.081 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 12.74 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.105 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 12.74 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.063 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.055 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 14.96 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.064 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 15.08 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.095 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.084 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 15.09 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.075 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 15.09 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.077 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 15.11 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.068 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 15.11 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.073 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 15.18 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.081 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 15.26 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.064 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 16.28 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.103 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 16.86 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.099 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 16.73 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.057 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 16.84 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.050 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 16.90 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.082 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 16.90 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.078 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 16.90 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.078 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 16.90 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.089 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 16.90 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.091 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 16.90 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.074 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 16.90 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.082 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 16.90 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.081 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 16.90 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.074 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 17.67 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.072 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 17.54 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.066 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG9: Property 'cards' does not exist on type 'MenuComponent'.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/menu/menu.component.html:3:33:
+[37m      3 │         <div *ngFor="let card of [32mcards[37m">
+        ╵                                  [32m~~~~~[0m
+
+  Error occurs in the template of component MenuComponent.
+
+    src/app/components/menu/menu.component.ts:5:15:
+[37m      5 │   templateUrl: [32m'./menu.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.115 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names         |  Raw Size
+styles.css          | styles        |  91.09 kB |
+polyfills.js        | polyfills     |  82.71 kB |
+main.js             | main          |  18.16 kB |
+
+                    | Initial Total | 191.96 kB
+
+Application bundle generation complete. [0.178 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.057 seconds]
+[2m21.22.55[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33m@angular/common[32m[39m
+[2m21.22.55[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.17 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.302 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.074 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.134 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 17.91 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.087 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.35 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.140 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.35 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.168 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.115 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.37 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.088 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.38 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.118 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.55 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.108 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.60 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.118 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.089 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.55 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.123 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.56 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.099 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.56 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.115 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.57 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.082 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.69 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.124 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.69 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.115 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 18.69 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.110 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.076 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.041 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.073 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.070 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.073 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.078 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.081 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 19.98 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.245 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 20.14 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.347 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 20.14 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.246 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.068 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.119 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.183 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 20.14 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.308 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.307 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.111 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.077 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 20.34 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.081 seconds]
+Reloading client(s)...
+[2m22.36.05[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mrxjs[32m[39m
+[2m22.36.05[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 20.30 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.080 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 20.30 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.071 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 20.30 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.089 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.073 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.071 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 20.16 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.079 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 20.02 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.081 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 19.95 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.069 seconds]
+Reloading client(s)...
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 20.16 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.394 seconds]
+- Changes detected. Rebuilding...
+Reloading client(s)...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.206 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.088 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names | Raw Size
+main.js             | main  | 20.09 kB |
+
+Unchanged output files: 2
+Application bundle generation complete. [0.074 seconds]
+Reloading client(s)...

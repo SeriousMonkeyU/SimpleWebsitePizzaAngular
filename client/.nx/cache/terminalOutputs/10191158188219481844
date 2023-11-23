@@ -1,0 +1,22 @@
+
+> client@0.0.0 watch
+> nx build client --watch development
+
+
+[2m> [22m[2mnx run[22m client:build:production --watch development
+
+
+ >  NX   Property 'watch' does not match the schema. 'development' should be a 'boolean'.
+
+
+
+ 
+
+ [31m>[39m [0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRunning target build for project client failed[39m
+
+   [2mFailed tasks:[22m
+   
+   [2m-[22m client:build:production
+   
+   [2mHint: run the command with[22m --verbose [2mfor more details.[22m
+

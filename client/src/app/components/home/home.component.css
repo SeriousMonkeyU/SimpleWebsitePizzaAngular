@@ -1,0 +1,38 @@
+.main-holder {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    justify-content: auto; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    height: 100em;
+    background-image: url('../../../assets/images/main-view.jpg'); /* Adjust the path */
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+}
+
+.content-holder {
+    width: 80%;
+    background-color: rgba(255, 230, 167, 0.5);
+    margin-left: 1em;
+    margin-right: 1em;
+    min-height: 30em;
+    max-height: 60em;
+}
+
+.title-holder {
+    margin-top: 2em;
+    width: 80%;
+    height: 13em;
+    background-color: rgba(255, 230, 167, 0.5);
+    margin-bottom: 2em;
+    display: flex;
+    justify-content: center;
+}
+
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.spacer {
+    padding: 1em;
+}

@@ -1,0 +1,538 @@
+- Building...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'mat-toolbar' is not a known element:
+1. If 'mat-toolbar' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'mat-toolbar' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/nav-menu/nav-menu.component.html:2:0:
+[37m      2 │ [32m<mat-toolbar color = "accent">[37m
+        ╵ [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component NavMenuComponent.
+
+    src/app/components/nav-menu/nav-menu.component.ts:6:15:
+[37m      6 │   templateUrl: [32m'./nav-menu.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [1.509 seconds]
+Watch mode enabled. Watching for file changes...
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'mat-toolbar' is not a known element:
+1. If 'mat-toolbar' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'mat-toolbar' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/components/nav-menu/nav-menu.component.html:2:0:
+[37m      2 │ [32m<mat-toolbar color = "accent">[37m
+        ╵ [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component NavMenuComponent.
+
+    src/app/components/nav-menu/nav-menu.component.ts:6:15:
+[37m      6 │   templateUrl: [32m'./nav-menu.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.055 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.652 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names         |  Raw Size
+styles.css          | styles        |  91.09 kB |
+polyfills.js        | polyfills     |  82.71 kB |
+main.js             | main          |   6.46 kB |
+
+                    | Initial Total | 180.26 kB
+
+Application bundle generation complete. [0.360 seconds]
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.055 seconds]
+- Changes detected. Rebuilding...
+
+No output file changes.
+
+Unchanged output files: 3
+Application bundle generation complete. [0.070 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-nav-menu' is not a known element:
+1. If 'app-nav-menu' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'app-nav-menu' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:0:0:
+[37m      0 │ [32m[37m
+        ╵ [32m^[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.442 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-nav-menu' is not a known element:
+1. If 'app-nav-menu' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'app-nav-menu' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:0:0:
+[37m      0 │ [32m[37m
+        ╵ [32m^[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.043 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-nav-menu' is not a known element:
+1. If 'app-nav-menu' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'app-nav-menu' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:0:0:
+[37m      0 │ [32m[37m
+        ╵ [32m^[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.044 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-nav-menu' is not a known element:
+1. If 'app-nav-menu' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'app-nav-menu' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:0:0:
+[37m      0 │ [32m[37m
+        ╵ [32m^[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.040 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-nav-menu' is not a known element:
+1. If 'app-nav-menu' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'app-nav-menu' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:0:0:
+[37m      0 │ [32m[37m
+        ╵ [32m^[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.040 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-nav-menu' is not a known element:
+1. If 'app-nav-menu' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'app-nav-menu' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:0:0:
+[37m      0 │ [32m[37m
+        ╵ [32m^[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './app.routes' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.ts:4:33:
+[37m      4 │ import { AppRoutingModule } from [32m'./app.routes'[37m;
+        ╵                                  [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./app.routes"[0m
+
+    src/app/app.config.ts:2:23:
+[37m      2 │ import { routes } from [32m'./app.routes'[37m;
+        ╵                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './app.routes' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.config.ts:4:23:
+[37m      4 │ import { routes } from [32m'./app.routes'[37m;
+        ╵                        [32m~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.171 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-nav-menu' is not a known element:
+1. If 'app-nav-menu' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'app-nav-menu' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:0:0:
+[37m      0 │ [32m[37m
+        ╵ [32m^[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './app.routes' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.ts:4:33:
+[37m      4 │ import { AppRoutingModule } from [32m'./app.routes'[37m;
+        ╵                                  [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./app.routes"[0m
+
+    src/app/app.config.ts:2:23:
+[37m      2 │ import { routes } from [32m'./app.routes'[37m;
+        ╵                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './app.routes' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.config.ts:4:23:
+[37m      4 │ import { routes } from [32m'./app.routes'[37m;
+        ╵                        [32m~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.033 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-nav-menu' is not a known element:
+1. If 'app-nav-menu' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'app-nav-menu' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:0:0:
+[37m      0 │ [32m[37m
+        ╵ [32m^[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./app.routes"[0m
+
+    src/app/app.config.ts:2:23:
+[37m      2 │ import { routes } from [32m'./app.routes'[37m;
+        ╵                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './app.routes' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.config.ts:4:23:
+[37m      4 │ import { routes } from [32m'./app.routes'[37m;
+        ╵                        [32m~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.292 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-nav-menu' is not a known element:
+1. If 'app-nav-menu' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'app-nav-menu' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:0:0:
+[37m      0 │ [32m[37m
+        ╵ [32m^[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "./app.routes"[0m
+
+    src/app/app.config.ts:2:23:
+[37m      2 │ import { routes } from [32m'./app.routes'[37m;
+        ╵                        [32m~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mTS2307: Cannot find module './app.routes' or its corresponding type declarations.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.config.ts:4:23:
+[37m      4 │ import { routes } from [32m'./app.routes'[37m;
+        ╵                        [32m~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.036 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-nav-menu' is not a known element:
+1. If 'app-nav-menu' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'app-nav-menu' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:0:0:
+[37m      0 │ [32m[37m
+        ╵ [32m^[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.083 seconds]
+- Changes detected. Rebuilding...
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'app-nav-menu' is not a known element:
+1. If 'app-nav-menu' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'app-nav-menu' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:0:0:
+[37m      0 │ [32m[37m
+        ╵ [32m^[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+[31mX [41;31m[[41;97mERROR[41;31m][0m [1mNG8001: 'router-outlet' is not a known element:
+1. If 'router-outlet' is an Angular component, then verify that it is included in the '@Component.imports' of this component.
+2. If 'router-outlet' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@Component.schemas' of this component to suppress this message.[0m [1m[35m[plugin angular-compiler][0m
+
+    src/app/app.component.html:3:2:
+[37m      3 │   [32m<router-outlet>[37m</router-outlet>
+        ╵   [32m~~~~~~~~~~~~~~~[0m
+
+  Error occurs in the template of component AppComponent.
+
+    src/app/app.component.ts:9:15:
+[37m      9 │   templateUrl: [32m'./app.component.html'[37m,
+        ╵                [32m~~~~~~~~~~~~~~~~~~~~~~[0m
+
+
+Application bundle generation failed. [0.064 seconds]
+- Changes detected. Rebuilding...
+
+Initial Chunk Files | Names         |  Raw Size
+styles.css          | styles        |  91.09 kB |
+polyfills.js        | polyfills     |  82.71 kB |
+main.js             | main          |   4.02 kB |
+
+                    | Initial Total | 177.82 kB
+
+Application bundle generation complete. [0.078 seconds]
+Reloading client(s)...
